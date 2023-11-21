@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#landing-page {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#event-info {
+    text-align: center;
+}
+
+#event-title {
+    font-size: 2em;
+}
+
+#event-description {
+    font-size: 1.2em;
+}
+
+#events-today {
+    font-size: 1.5em;
+    font-weight: bold;
+}
