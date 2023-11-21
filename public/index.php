@@ -9,7 +9,7 @@
 <body>
     <?php
     // Include the file containing the function to fetch event data
-    include 'event_logic.php';
+    include './includes/event_logic.php';
 
     // Fetch event data
     $event = getNextEvent();
